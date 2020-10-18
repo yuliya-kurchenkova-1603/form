@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    color: #333;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    width: 1024px;
+    margin: auto;
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+}
+
+label input {
+    display: block;
+}
+
+table tr th,
+table tr td {
+    border: 1px solid grey;
+    min-width: 200px;
+    padding: 6px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
