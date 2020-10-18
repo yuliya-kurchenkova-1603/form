@@ -1,0 +1,18 @@
+{
+    "fields": [{
+        "id": "id",
+        "label": "User ID"
+    }, {
+        "id": "name",
+        "label": "Name"
+    }, {
+        "id": "password",
+        "label": "Password"
+    }, {
+        "id": "email",
+        "label": "Email"
+    }, {
+        "id": "action",
+        "label": ""
+    }]
+}
